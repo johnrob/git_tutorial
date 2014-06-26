@@ -1,0 +1,2 @@
+just setting up my first git repo.
+hello world.
